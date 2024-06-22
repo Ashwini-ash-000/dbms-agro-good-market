@@ -1,12 +1,12 @@
 body {
-    background: rgb(62, 56, 56);
+    background: rgb(40, 31, 31);
     /* color: #2f3138; */
     color: white;
     font-family: "Open Sans", sans-serif;
 }
 
 a {
-    color: #d8cccc!important;
+    color: #ecdcdc!important;
     text-decoration: none;
     transition: 0.5s;
 }
@@ -524,7 +524,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro {
     width: 100%;
     height: 100vh;
-    background: url(../../images/bg.jpg) top center;
+    background: url(../../images/dbms2.jpg) top center;
     background-size: cover;
     overflow: hidden;
     position: relative;
