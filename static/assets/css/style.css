@@ -687,6 +687,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro .about-btn:hover {
     background: black;
     color: #fff;
+    
 }
 
 @-webkit-keyframes pulsate-btn {
